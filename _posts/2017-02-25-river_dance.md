@@ -2,33 +2,47 @@
 layout: post
 title:  "River Dance"
 ---
-My mammy always told me  
-"Count your blessings dear"  
-Since hell froze over  
-It's got no one to fear  
+```
+intro: C, Am, Dm, G7
 
-Except Jesus sitting down  
-In a rusty Barber Chair  
-He only asks for just a trim  
-No, He don't want to cut his hair  
+C                                   Am
+My mammy always told me "Count your blessings dear"
+      Dm                       G7
+Since hell froze over it's got no one to fear
+C                               Am
+There's Jesus sitting down in a barber chair
+   Dm                            G7                       C
+He only asks for just a trim no, He don't want to cut his hair
 
-And I pray, cause what would I do on my own?  
+      Am   F                   G       C     Am F G G G G
+And I pray cause what would I do on my own?
 
-Just ten summers later  
-We all found our own roads  
-Took them down to the river  
-And took off all our clothes  
 
-Our river dance  
-Went untelevized  
-When your 10 lbs lighter  
-You've got nothing to hide  
+C                             Am
+Just ten summers later we all found our own roads
+          Dm                         G7
+Took them down to the river and took off all our clothes
+C                     Am
+Our river dance went untelevized
+          Dm                        G7
+When your 10 lbs lighter you've got nothing to hide
 
-Then I sank and wept, thought what would I do on my own?  
+       C        Am      F             G        C     Am F G G G G
+Then I sank and thought "what would I do on my own?"
 
-When these burdensome times get to heavy to hold  
-I ain't dumb, and I ain't blind  
-I just can't do what I'm told to sometimes  
-Your damned if you do and fucked if you don't  
-When not a soul on board could stop rocking the boat  
-It's all you can do to get her out of the smoke and not choke
+           C
+When these burdensome times
+       F        G
+Get to heavy to hold
+             C
+Well I ain't dumb, and I ain't blind
+       F                 G                 C
+I just can't do what I'm told to sometimes
+       F                 G                 C
+I just can't do what I'm told to sometimes
+       F                 G
+I just can't do what I'm told...
+
+C Am F G
+No no no
+```
