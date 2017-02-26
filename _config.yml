@@ -25,6 +25,7 @@ twitter_username: iamreppard
 github_username:  reppard
 
 # Build settings
+permalink: none
 markdown: kramdown
 theme: minima
 gems:
