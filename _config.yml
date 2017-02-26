@@ -17,6 +17,8 @@ title: songbook of reppard
 email: reppardwalker@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A collection of songs and works in progress.
+
+  All content © 2017 Reppard Walker
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://songbook.reppard.com"
 twitter_username: iamreppard
@@ -24,7 +26,7 @@ github_username:  reppard
 
 # Build settings
 markdown: kramdown
-theme: papyrus
+theme: minima
 gems:
   - jekyll-feed
 exclude:
