@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="header">
+  <h2>{{ page.title }}</h2>
+  <h4>
+    <a style="float:left;" href="{{ page.previous.url }}"> << PREV </a>
+    <a style="float:right;" href="{{ page.next.url }}">NEXT >></a>
+  </h4>
+</div>
+<br>
+<div class="post">
+  {{ content }}
+</div>

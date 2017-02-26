@@ -1,15 +1,9 @@
 ---
 layout: default
 ---
-{% assign songs = site.posts | sort: title %}
+{% include sidebar.html %}
 
-{% for song in songs  %}
-	<a href="{{ song.url }}">"{{ song.title }}"</a>,
-{% endfor %}
-<br>
-<br>
-
-<div id="home">
+<div id="songs">
 	{% for song in songs %}
 		<h2><a href="{{ song.url }}">{{ song.title }}</a></h2>
 			{{ song.content }}
