@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: songbook of reppard
+title: The Songbook
 email: reppardwalker@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A collection of songs and works in progress.
 
-  All content © 2017 Reppard Walker
+  All content © 2004 - 2017 Reppard Walker
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://songbook.reppard.com"
 twitter_username: iamreppard
 github_username:  reppard
 
 # Build settings
-permalink: /songs/:title
+permalink: /songs/:title.html
 markdown: kramdown
 theme: minima
 gems:
@@ -33,3 +33,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - deploy.sh
