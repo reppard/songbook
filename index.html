@@ -2,10 +2,11 @@
 layout: default
 ---
 {% include sidebar.html %}
+{% assign songs = site.posts | sort: title %}
 
 <div id="songs">
 	{% for song in songs %}
 		<h2><a href="{{ song.url }}">{{ song.title }}</a></h2>
-			{{ song.content }}
+		{{ song.content }}
 	{% endfor %}
 </div>
