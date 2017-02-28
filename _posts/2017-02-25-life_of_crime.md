@@ -1,41 +1,58 @@
 ---
 layout: post
-title:  "Life of Crime"
+title:  "life of crime(duet)"
 ---
-### A duet
 ```
-Guy:
-Crime, it pays sometimes
-But nickles and dimes
-Dont get me very close to you
+title:  "life of crime(duet)"
+author: Reppard Walker
 
-Thats well and fine, I'll fry my mind
-All day long 'cause I ain't got shit else to do
+guy:
 
-Chorus:
-And baby, there ain't no question
-If this is right or wrong
-The only question is for how far and how long
-I'll drag these heels of mine
-Through this dirt and shit that I've
-Tried to hide for oh so long
-Times come to ramble on
+crime, it pays sometimes but nickles and dimes
 
-Girl:
-Love, it hurts sometimes
-It's kept me blind
-From all the running 'round you do
+dont get me very close to you
 
-Cry, hell I cry sometimes
-Then I let Jack and Johnny take the place of you
+thats well and fine, i'll fry my mind
 
-Repeat Chorus
+all day long 'cause i ain't got shit else to do
 
-Girl:
-Love, you've lost your mind
-Your always stoned and never home when I'm blue
+chorus:
 
-And I'm blue, just like those eyes
-Cause your guitars the only girl who you'd
-Ever give your heart to
+and baby, there ain't no question
+
+if this is right or wrong
+
+the only question is for how far and how long
+
+i'll drag these heels of mine
+
+through this dirt and shit that i've
+
+tried to hide for oh so long
+
+times come to ramble on
+
+girl:
+
+love, it hurts sometimes, it's kept me blind
+
+from all the running 'round you do
+
+cry, hell i cry sometimes
+
+then i let jack and johnny take the place of you
+
+repeat chorus
+
+girl:
+
+love, you've lost your mind
+
+your always stoned and never home when i'm blue
+
+and i'm blue, just like those eyes
+
+cause your guitars the only girl who you'd
+
+ever give your heart to
 ```

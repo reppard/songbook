@@ -1,32 +1,55 @@
 ---
 layout: post
-title:  "Unholy Smoke"
+title:  "unholy smoke"
 ---
-### A7, D, Bm, Em
 ```
-Unholy smoke on sacred ground
-Fire consumes me without a sound
-And I don't scream, I just stand around
-Waiting to turn into ash and float into the sunset
+title:  "unholy smoke"
+author: Reppard Walker
 
-Unholy smoke on sacred ground
-A fire burns as dreams are turned to emptiness
-Just like promises
+A7, D, Am, Em
 
-We count the stars every night
-But their numbers fade with the coming of the morning light
-And thats alright, ain't it?
+unholy smoke on sacred ground
 
-I'm not known for making promises
-Cause I could not afford to keep them
-But I would die for you...
+fire consumes me without a sound
 
-Holy smoke on sacred ground
-Fire consumes us without a sound
-And we all just laugh and dance around
-Waiting to turn into ash and float into the sunset
+and i don't scream, i just stand around
 
-I lost hope
-And I can't find
-Her nowhere
+waiting to turn into ash and float into the sunset
+
+
+unholy smoke on sacred ground
+
+a fire burns as dreams are turned to emptiness
+
+just like promises
+
+
+we count the stars every night
+
+but their numbers fade with the coming of the morning light
+
+and thats alright, ain't it?
+
+
+i'm not known for making promises
+
+cause i could not afford to keep them
+
+but i would die for you...
+
+
+holy smoke on sacred ground
+
+fire consumes us without a sound
+
+and we all just laugh and dance around
+
+waiting to turn into ash and float into the sunset
+
+
+i lost hope
+
+and i can't find
+
+her nowhere
 ```

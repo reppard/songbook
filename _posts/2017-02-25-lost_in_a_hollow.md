@@ -1,31 +1,55 @@
 ---
 layout: post
-title:  "Lost In a Hollow"
+title:  "lost in a hollow"
 ---
 ```
-I searched a valley for a peaceful spring
-The grass was green and all the birds were singing
-For a moment so brief I thought that I could breath
-And I got caught up in the moment
-Like a river I was running free
-The taste of life was what I really wanted
+title:  "lost in a hollow"
+author: Reppard Walker
 
-Well I searched all day and oh what did I find?
-When the sun burns out, oh how it makes you blind
-Shadows made nightmares from my day dreams
-Creatures prepared to seize the moment
-The wolves could smell me, they could hear me breath
-To taste my life was what they really wanted
+i searched a valley for a peaceful spring
 
-When I get lost in a hollow
-The way out ain't always so easy to find
-It's always cold sweats and regrets that follow
-When I get lost in a hollow
+the grass was green and all the birds were singing
 
-The dawn came on just like a rolling tide
-And my brain in pain told me I hadn't died
-I stood myself up to dust off my blue jeans
-Filthy to clean in just a moment
-A rocky path had crawled beneath my feet
-To lead me where I really wanted
+for a moment so brief i thought that i could breath
+
+and i got caught up in the moment
+
+like a river i was running free
+
+the taste of life was what i really wanted
+
+
+well i searched all day and oh what did i find?
+
+when the sun burns out, oh how it makes you blind
+
+shadows made nightmares from my day dreams
+
+creatures prepared to seize the moment
+
+the wolves could smell me, they could hear me breath
+
+to taste my life was what they really wanted
+
+
+when i get lost in a hollow
+
+the way out ain't always so easy to find
+
+it's always cold sweats and regrets that follow
+
+when i get lost in a hollow
+
+
+the dawn came on just like a rolling tide
+
+and my brain in pain told me i hadn't died
+
+i stood myself up to dust off my blue jeans
+
+filthy to clean in just a moment
+
+a rocky path had crawled beneath my feet
+
+to lead me where i really wanted
 ```

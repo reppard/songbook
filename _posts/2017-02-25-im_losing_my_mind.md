@@ -1,36 +1,51 @@
 ---
 layout: post
-title:  "I'm Losing My Mind"
+title:  "i'm losing my mind"
 ---
-### D, Bm, G, A
 ```
-People say that I'm losing my mind
-But I know it ain't me
-This old damn world is just spinning to slow
+title:  "i'm losing my mind"
+author: Reppard Walker
 
-Yeah, I think I'm doing fine
-If Mona could see me
-She'd probably turn up her nose
+D, Bm, G, A
 
-No she wont listen to me
-Why does her memory rot in my soul?
-The darkness don't listen to me
-If I had half a mind
-I'd probably blow it away
+people say that i'm losing my mind
 
-I think I done lost my mind
-Somewhere between here
-And mushrooms down in Strawberry Grove
+but i know it ain't me this old damn world is just spinning to slow
 
-To get it back it just might take a little time
-Some big laughing bird
-Just flew by, snatched it right out my nose
+yeah, i think i'm doing fine
 
-Now his madness consumes me
-Why does his song sing in my soul?
-The darkness don't listen to me
-I use to have a mind
-But then I blew it away
+if mona could see me she'd probably turn up her nose
 
-I think I done lost my mind
+
+no she wont listen to me
+
+why does her memory rot in my soul?
+
+the darkness don't listen to me
+
+if i had half a mind
+
+i'd probably blow it away
+
+
+i think i done lost my mind
+
+somewhere between here and mushrooms down in strawberry grove
+
+to get it back it just might take a little time
+
+some big laughing bird just flew by, snatched it right out my nose
+
+
+now his madness consumes me
+
+why does his song sing in my soul?
+
+the darkness don't listen to me
+
+i use to have a mind
+
+but then i blew it away
+
+i think i done lost my mind
 ```

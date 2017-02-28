@@ -1,58 +1,61 @@
 ---
 layout: post
-title:  "American Plight"
+title:  "american plight"
 ---
 ```
-Chords: G(Big), G/F#, C(add7), Em, D, D7
+title:  "american plight"
+author: Reppard Walker
+chords: G(Big), G/F#, C(add7), Em, D, D7
 
-G, G, C, G, G, G/F#, Em, Em, G/F#, G
+
+intro: G, G, C, G, G, G/F#, Em, Em, G/F#, G
 
 G
-Summer came back to life
+summer came back to life
      C
-Born out of dying Spring
+born out of dying spring
     G
-The setting Sun was on the run
+the setting sun was on the run
     C
 And sank into the sea
    D
-It barely made a splash
+it barely made a splash
           C
-So far as anyone could see
+so far as anyone could see
     G
-And held it's breath one-thousand years
+and held it's breath one-thousand years
     C
-Waiting to be let free
+waiting to be let free
        D           C                     G
-But it lost... the fight... with the tide
+but it lost... the fight... with the tide
 
 G
-Then Winter came to shake our hands
+then winter came to shake our hands
      C
-Like long forgotten friends
+like long forgotten friends
     G
-His crooked smile
+his crooked grin
                   C
-All frozen on the outside looking in
+all frozen on the outside looking in
     D
-The crocodile swallowed the child
+the crocodile swallowed the child
        C
-Before his life could begin
+before his life could begin
     G
-His toothy smile
+his toothy smile
                C
-A faded yellow army of crimson
+a faded yellow army of crimson
           D           C                    G
-And we've all... lost sight... of the Light
+and we've all... lost sight... of the light
 
 
-Chorus:
+chorus:
   Em                                G
-I don't think I can stomach the site
+i don't think I can stomach the site
                Am                      D7
-A new American plight, a new American plight
+a new american plight, a new american plight
   Em                                 G
-I don't think I can stomach the fight
+i don't think i can stomach the fight
                       Am                   D
-Why don't we bury the knife? A new America plight
+why don't we bury the knife? a new america plight
 ```

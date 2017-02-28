@@ -1,65 +1,68 @@
 ---
 layout: post
-title:  "All Damn Night"
+title:  "all damn night"
 ---
 ```
-Chords: Dm7, C, Bb, A, F
+title:  "all damn night"
+author: Reppard Walker
+chords: Dm7, C, Bb, A, F
 
-Dm7, C Bb, A, Bb
+
+intro: Dm7, C Bb, A, Bb
 
 Dm7                     Bb
-Let's take a trip where souls eclipse us
+let's take a trip where souls eclipse us
                  A
-We don't need no boarding pass
+we don't need no boarding pass
 Dm7                    Bb
-If it's love that your out to get girl
+if it's love that your out to get girl
                         A
-It ain't love if you've gotta ask
+it ain't love if you've gotta ask
 
 
         Dm7    C                     Bb          C
-And oh, I know just what you've been waiting for
+and oh, i know just what you've been waiting for
 Dm7       C        Bb        C
-Something pure and spiritual
+something pure and spiritual
 
 
 F
-Well alright...
+well alright...
 F     G          Am   C   Bb
-We'll dance just like you wanted to
+we'll dance just like you wanted to
           C                     F
-How about on the couch? Move it to the floor
+how about on the couch? move it to the floor
        F   G    Am     C Bb
-We got all damn night, tomorrow too
+we got all damn night, tomorrow too
           C                   F
-We'll hit every room 'til our knees get sore
+we'll hit every room 'til our knees get sore
      Dm7                 Bb
-Oh I swear you move like light
+oh i swear you move like light
                         C
-We're just taking our time
+we're just taking our time
 
-Cause we got all damn night
+cause we got all damn night
 Dm7
 
 Dm7, C Bb, A, Bb
 
 
 Dm7                Bb
-You can't run from your addictions
+you can't run from your addictions
                   A
-An instinct makes sure of that
+an instinct makes sure of that
 Dm7             Bb
-Carnal pulse dictates your actions
+carnal pulse dictates your actions
                   A
-Don't you find it funny that
+don't you find it funny that
 
 
       Dm7          C        Bb       C
-Those night lights get your paranoid
+those night lights get your paranoid
          Dm7    C         Bb          C
-When the rhythm stops you feel a void
+when the rhythm stops you feel a void
         Dm7    C                     Bb          C
-And oh, I know just what you've been waiting for
+and oh, i know just what you've been waiting for
 Dm7       C        Bb        C
-Something pure and spiritual
+something pure and spiritual
 ```

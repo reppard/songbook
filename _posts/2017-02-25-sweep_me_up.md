@@ -1,33 +1,36 @@
 ---
 layout: post
-title:  "Sweep Me Up"
+title:  "sweep me up"
 ---
-# E, Bm7, A
 ```
-Early Monday morning
-I told my love
-"Every time I fall to pieces
-You're right there to sweep me up"
+title:  "sweep me up"
+author: Reppard Walker
 
-But pretty eyes
-Can only get you by Love
-Beauty fades out long before
-Your words could ever die
+E, Bm7, A
 
-When I fall down
-You pick me up
-Back on my feet where I belong
-When I fall down
-You pick me up
-You dust me off and keep my fighting on
+early monday morn' i says to my love
 
-Sweeter than pure sugar cane
-Is my Love
-These rotten teeth may fall to pieces
-But I could never spit her out
+"every time i fall to pieces you come around and sweep me up"
 
-Pure cocaine can't hold a flame
-To my Love
-Gets the blood in my heart racing
-Faster than a train run wild
+but pretty eyes can only get you by love
+
+beauty fades out long before your words could ever die
+
+
+when i fall down you pick me up
+
+back on my feet where i belong
+
+when i fall down you pick me up
+
+you dust me off and keep my fighting on
+
+
+sweeter than pure sugar cane is my love
+
+these rotten teeth may fall to pieces but i could never spit her out
+
+pure cocaine can't hold a flame to my love
+
+gets the blood in my heart racing faster than a train run wild
 ```
