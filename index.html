@@ -4,9 +4,13 @@ layout: default
 {% include sidebar.html %}
 {% assign songs = site.posts | sort: title %}
 
-<div id="songs">
-	{% for song in songs %}
-		<h2><a href="{{ song.url }}">{{ song.title }}</a></h2>
-		{{ song.content }}
-	{% endfor %}
+<div style="float:right;" class="sidebar-right">
+  <ul style="list-style: none;">
+    <h2>*songs*</h2>
+    {% for song in songs  %}
+      <li>
+        <a href="{{ song.url }}">{{ song.title | upcase }}</a>
+      </li>
+    {% endfor %}
+  </ul>
 </div>

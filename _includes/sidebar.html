@@ -1,15 +1,7 @@
-{% assign songs = site.posts | sort: title %}
 {% assign wips = site.wip | sort: title %}
 
 <div style="float:right;" class="sidebar-right">
   <ul style="list-style: none;">
-    <h2>*songs*</h2>
-    {% for song in songs  %}
-      <li>
-        <a href="{{ song.url }}">{{ song.title | upcase }}</a>
-      </li>
-    {% endfor %}
-    <br>
     <h2>*wip*</h2>
     {% for wip in wips  %}
       <li>
