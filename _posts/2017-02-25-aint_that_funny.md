@@ -43,3 +43,4 @@ i guess i just ain't that damn funny no more
 C, C, G, G
 C, C, G, D, C, G
 ```
+{% soundcloud_sound 309893892 %}

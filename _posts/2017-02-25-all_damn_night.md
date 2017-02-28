@@ -66,3 +66,4 @@ and oh, i know just what you've been waiting for
 Dm7       C        Bb        C
 something pure and spiritual
 ```
+{% soundcloud_sound 309895734 %}
