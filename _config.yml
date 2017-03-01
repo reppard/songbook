@@ -28,8 +28,8 @@ github_username:  reppard
 permalink: /songs/:title.html
 markdown: kramdown
 theme: minima
-gems:
-  - jekyll-feed
+gems: [jekyll-feed, jekyll-youtube]
+
 exclude:
   - Gemfile
   - Gemfile.lock
