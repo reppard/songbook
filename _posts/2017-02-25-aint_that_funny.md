@@ -15,9 +15,9 @@ intro: G x4
 G
 remember those good times that you can't ignore
 
-how i kept you laughing 'til your guts were sore
+the way i kept you laughing 'til your guts were sore
 C
-now your dead silent as i head for the door
+now theres dead silent as i head for the door
   G            D               C        G
 i guess i just ain't that damn funny no more
 
