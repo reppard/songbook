@@ -10,3 +10,16 @@
     {% endfor %}
   </ul>
 </div>
+
+{% assign ep_songs = site.tags.ep %}
+
+<div class="sidebar-right">
+  <ul style="list-style: none;">
+    <h2>*ep candidates*</h2>
+    {% for song in ep_songs  %}
+      <li>
+        <a href="{{ song.url }}">{{ song.title | upcase }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

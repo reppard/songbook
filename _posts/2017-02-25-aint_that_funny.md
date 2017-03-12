@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "ain't that funny"
+tags: ep
 ---
 ```
 title:  "ain't that funny"

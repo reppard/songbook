@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "i'm losing my mind"
+tags: ep
 ---
 ```
 title:  "i'm losing my mind"
